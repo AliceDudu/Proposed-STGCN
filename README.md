@@ -26,7 +26,7 @@ Keep the same folder structure for each proposed model:
   - utility.py
 - main.py
 
-**Step 2, run**
+**Step 2, go to each model's folder run**
 
 ```
 python main.py
